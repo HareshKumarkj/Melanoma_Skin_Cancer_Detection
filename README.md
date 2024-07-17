@@ -18,7 +18,7 @@ The data set contains the following diseases:
 
 ![datasetdf](https://github.com/HareshKumarkj/Melanoma_Skin_Cancer_Detection/blob/main/Datasetdf.png)
 
-![datasetplot](https://github.com/kshitij-raj/Melanoma-Skin-Cancer-Detection/blob/f143d178495ec6490ce2ee18c4cbbfb2e1388cea/Readme_images/DatasetPlot.png)
+![datasetplot](https://github.com/HareshKumarkj/Melanoma_Skin_Cancer_Detection/blob/main/DatasetPlot.png)
 
 To overcome the issue of class imbalance, used a python package  Augmentor (https://augmentor.readthedocs.io/en/master/) to add more samples across all classes so that none of the classes have very few samples.
 
